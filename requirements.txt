@@ -1,0 +1,10 @@
+sounddevice
+numpy
+librosa
+pydub
+scikit-learn
+cryptography
+tensorflow
+streamlit
+flask
+pymongo
